@@ -1,6 +1,6 @@
 ### 不甘为凡客 💬
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![collabH github stats](https://github-readme-stats.vercel.app/api?username=collabH&show_icons=true&theme=radical)
 
 <!--
 **collabH/collabH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
