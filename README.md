@@ -1,7 +1,6 @@
 ### 不甘为凡客 
 
 ![collabH github stats](https://github-readme-stats.vercel.app/api?username=collabH&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=collabH&layout=compact)](https://github.com/collabH/collabH)
 <!--
 **collabH/collabH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
