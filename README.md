@@ -1,7 +1,3 @@
-[![min's github stats](https://github-readme-stats.vercel.app/api?username=collabH&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=collabH&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
-
-
 > 
 > 
 > 欲买桂花同载酒 终不似 少年游 <br/><br/>
@@ -9,6 +5,10 @@
 
 - [Mail](huangshimin1996@gmail.com) : _contact way_
 - [公众号](https://mp.weixin.qq.com/s/GasuEemF8Ifa0hPnG5XZ0A) : _技术在路上_
+
+
+[![min's github stats](https://github-readme-stats.vercel.app/api?username=collabH&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=collabH&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 Here are some ideas to get you started:
