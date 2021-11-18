@@ -5,6 +5,7 @@
 
 - [Mail](huangshimin1996@gmail.com) : _contact way_
 - [公众号](https://mp.weixin.qq.com/s/GasuEemF8Ifa0hPnG5XZ0A) : _技术在路上_
+- 微信 : _h1261109615_
 
 
 [![min's github stats](https://github-readme-stats.vercel.app/api?username=collabH&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
