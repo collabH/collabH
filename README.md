@@ -8,9 +8,6 @@
 - 微信 : _h1261109615_
 
 
-[![min's github stats](https://github-readme-stats.vercel.app/api?username=collabH&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=collabH&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
-
 ### Contribution ###
 
 ![syhily](https://github-readme-stats.vercel.app/api/top-langs/?username=collabH&layout=compact&theme=onedark)
