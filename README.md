@@ -9,12 +9,6 @@
 
 ---
 
-### :memo:Weekly Development ###
-
-![collabH Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=collabH&layout=compact&theme=radical)
-
----
-
 ### Contribution ###
 
 ![collabH](https://github-readme-stats.vercel.app/api/top-langs/?username=collabH&layout=compact&theme=onedark)
