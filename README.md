@@ -9,10 +9,3 @@
 
 ![collabH](https://github-readme-stats.vercel.app/api/top-langs/?username=collabH&layout=compact&theme=onedark)
 ---
-
-### Contribution ###
-[![github contributions](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=collabH&theme=monokai)](https://github.com/collabH)
-
-![collabH](https://github-readme-stats.vercel.app/api?username=collabH&count_private=true&show_icons=true&theme=tokyonight&show_owner=true)
-
-[![collabH](https://activity-graph.herokuapp.com/graph?username=collabH&theme=xcode&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
