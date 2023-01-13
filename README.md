@@ -7,5 +7,4 @@
 - [公众号](https://mp.weixin.qq.com/s/0kloiLBHQb_98Sp58yv57g) : _数据在路上_
 - 微信 : _h1261109615_
 
-![collabH](https://github-readme-stats.vercel.app/api/top-langs/?username=collabH&layout=compact&theme=onedark)
 ---
