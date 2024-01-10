@@ -19,6 +19,6 @@
 
 ---
 
-- 友链: (kezhenyang163)[https://github.com/kezhenyang163]
+- 友链: [kezhenyang163](https://github.com/kezhenyang163)
 ---
 ![collabH](https://github-readme-stats.vercel.app/api?username=collabH&count_private=true&show_icons=true&theme=tokyonight&show_owner=true)
