@@ -1,11 +1,6 @@
-<div align=center>
-  <h3><b>🏷 My Github visits</b></h3>
-</div>
-
 <p align="center" >   
-  <img src="https://profile-counter.glitch.me/collabH/count.svg" />  
+  <img src="https://komarev.com/ghpvc/?username=collabH&label=Profile%20Views&color=red&style=flat" />  
 </p>
-
 
 ---
 > 
